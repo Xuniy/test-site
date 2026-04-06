@@ -2,7 +2,7 @@
   "name": "construction-site",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://xuniy.github.io/test-site",
+  "homepage": "https://xuniy.github.io/test-site",
   "dependencies": {
     "@tailwindcss/postcss": "^4.2.2",
     "@testing-library/dom": "^10.4.1",
